@@ -1,0 +1,94 @@
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700&subset=latin,latin-ext);
+
+
+body {
+    background-color: #f1f2f3;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h2 a {
+    color: #fff;
+}
+
+h2 a:hover {
+    color: #fff;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+.centered {
+    text-align: center;
+}
+
+.goleft {
+	text-align: left;
+}
+
+a {
+    word-wrap: break-word;
+
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+a:hover,
+a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:before,
+a:after {
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+a {
+    color: #555;
+}
+
+ hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}

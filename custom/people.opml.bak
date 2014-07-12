@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+<head>
+<title>Developer News</title>
+<dateCreated>2014-07-04T11:04:27+00:00</dateCreated>
+<dateModified>2014-07-04T11:04:27+00:00</dateModified>
+</head>
+<body>
+<outline text="SitePoint" htmlUrl="http://www.sitepoint.com" xmlUrl="http://www.sitepoint.com/feed/"/>
+<outline text="Hacker News" htmlUrl="https://news.ycombinator.com/" xmlUrl="http://news.ycombinator.com/rss"/>
+<outline text="Designer News" htmlUrl="https://news.layervault.com/" xmlUrl="https://news.layervault.com/?format=rss"/>
+<outline text="Codrops" htmlUrl="http://tympanus.net/codrops" xmlUrl="http://feeds.feedburner.com/tympanus?format=xml"/>
+<outline text="HTML5Rocks" htmlUrl="http://www.html5rocks.com/" xmlUrl="http://feeds.feedburner.com/html5rocks?format=xml"/>
+<outline text="Line25" htmlUrl="http://line25.com" xmlUrl="http://feeds.feedburner.com/Line25?format=xml"/>
+<outline text="Smashing Magazine" htmlUrl="http://www.smashingmagazine.com" xmlUrl="http://www.smashingmagazine.com/feed/"/>
+<outline text="noupe" htmlUrl="http://www.noupe.com" xmlUrl="http://www.noupe.com/feed"/>
+<outline text="Inspiration Hut" htmlUrl="http://inspirationhut.net" xmlUrl="http://feeds.inspirationhut.net/inspirationhut"/>
+<outline text="Tuts+" htmlUrl="http://tutorials.tutsplus.com" xmlUrl="http://tutorials.tutsplus.com/posts.atom"/>
+<outline text="Creative Bloq Web design" htmlUrl="http://www.creativebloq.com/" xmlUrl="http://feeds.feedburner.com/creativebloq/web-design"/>
+<outline text="Treehouse" htmlUrl="http://blog.teamtreehouse.com" xmlUrl="http://blog.teamtreehouse.com/feed"/>
+<outline text="Learning jQuery" htmlUrl="http://www.learningjquery.com" xmlUrl="http://www.learningjquery.com/feed"/>
+<outline text="Ajaxian" htmlUrl="http://ajaxian.com" xmlUrl="http://feeds.feedburner.com/ajaxian"/>
+<outline text="Signal vs. Noise" htmlUrl="http://signalvnoise.com/posts" xmlUrl="http://feeds.feedburner.com/37signals/beMH"/>
+<outline text="Coding Horror" htmlUrl="http://blog.codinghorror.com/" xmlUrl="http://feeds.feedburner.com/codinghorror"/>
+<outline text="CSS Tricks" htmlUrl="http://css-tricks.com" xmlUrl="http://feeds.feedburner.com/CssTricks"/>
+<outline text="Reddit /r/programming" htmlUrl="http://www.reddit.com/r/programming/" xmlUrl="http://www.reddit.com/r/programming/top/.rss"/>
+</body>
+</opml>
